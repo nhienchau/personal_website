@@ -2,11 +2,11 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { Github, Mail, Linkedin, ExternalLink, ArrowRight, Code2, PenTool, Briefcase, LucideSettings } from "lucide-react"
+import { Github, Mail, Linkedin, ArrowRight, Code2, PenTool, LucideSettings } from "lucide-react"
 import Link from "next/link"
 import TypewriterText from "@/components/typewritertext"
 import { ThemeToggle } from "@/components/theme-toggle"
-import { TechStack} from "@/components/tech-stack"
+// import { TechStack} from "@/components/tech-stack"
 
 
 export default function Home() {
@@ -165,7 +165,7 @@ export default function Home() {
                   <img
                     src="/images/credit_risk.jpeg"
                     alt="Credit-analysis"
-                    className="object-cover w-full h-48"
+                    className="object-cover w- h-4"
                   />
                 </div>
                 <CardContent className="p-6 space-y-4">
