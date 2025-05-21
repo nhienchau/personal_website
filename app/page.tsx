@@ -64,7 +64,7 @@ export default function Home() {
                   Available for hire
                 </Badge> */}
 
-                <TypewriterText text="Hi, I'm Nhien Chau" speed={100} />
+                <TypewriterText text={"Hi, I'm Nhien Chau"} speed={100} />
 
 
                 <p className="text-xl text-muted-foreground">
