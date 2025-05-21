@@ -165,7 +165,7 @@ export default function Home() {
                   <img
                     src="/images/credit_risk.jpeg"
                     alt="Credit-analysis"
-                    className="object-cover w- h-4"
+                    className="object-cover w- h-48"
                   />
                 </div>
                 <CardContent className="p-6 space-y-4">
