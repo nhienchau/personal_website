@@ -301,7 +301,7 @@ export default function Home() {
               <h2 className="text-3xl md:text-4xl font-bold">Technologies I Work With</h2>
               <div className="max-w-3xl">
                 <p className="text-muted-foreground text-lg">
-                  I'm constantly learning and expanding my skill set. Here are some of the technologies I'm proficient
+                  I am constantly learning and expanding my skill set. Here are some of the technologies I am  proficient
                   in.
                 </p>
               </div>
