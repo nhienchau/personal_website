@@ -350,15 +350,15 @@ export default function Home() {
                   <div className="space-y-3">
                     <div className="flex items-center gap-3">
                       <Mail className="h-5 w-5 text-primary" />
-                      <p>your.email@example.com</p>
+                      <p>quynhnhien510@gmail.com</p>
                     </div>
                     <div className="flex items-center gap-3">
                       <Linkedin className="h-5 w-5 text-primary" />
-                      <p>linkedin.com/in/yourname</p>
+                      <p>linkedin.com/in/nhienchau</p>
                     </div>
                     <div className="flex items-center gap-3">
                       <Github className="h-5 w-5 text-primary" />
-                      <p>github.com/yourusername</p>
+                      <p>github.com/nhienchau</p>
                     </div>
                   </div>
                 </CardContent>
