@@ -29,6 +29,9 @@ export default function Home() {
               <Link href="#contact" className="text-muted-foreground hover:text-foreground transition-colors">
                 Contact
               </Link>
+              <Link href="#resume" className="text-muted-foreground hover:text-foreground transition-colors">
+                Resume
+              </Link>
             </div>
           </nav>
           <div className="flex items-center space-x-2">
@@ -64,7 +67,7 @@ export default function Home() {
                   Available for hire
                 </Badge> */}
 
-                <TypewriterText text={"Hi, I'm Nhien Chau"} speed={100} />
+                <TypewriterText text={"Hi, I am  Nhien Chau"} speed={100} />
 
 
                 <p className="text-xl text-muted-foreground">
@@ -180,7 +183,7 @@ export default function Home() {
                   </div>
                   {/* <div className="flex gap-2 flex-wrap"> */}
                   <Badge variant="secondary">Python</Badge>
-                    {/* <Badge variant="secondary">Next.js</Badge>
+                  {/* <Badge variant="secondary">Next.js</Badge>
                       <Badge variant="secondary">Tailwind CSS</Badge> */}
                   {/* </div> */}
                   <div className="flex gap-2">
@@ -215,12 +218,12 @@ export default function Home() {
                       <h3 className="font-bold text-xl">Retail Analysis</h3>
                     </div>
                     <p className="text-muted-foreground">
-                    Analyzed retail sales data to uncover trends, identify top-performing products, and evaluate customer purchasing behavior. Built dashboards and visualizations to support strategic business decisions and optimize sales performance.
+                      Analyzed retail sales data to uncover trends, identify top-performing products, and evaluate customer purchasing behavior. Built dashboards and visualizations to support strategic business decisions and optimize sales performance.
                     </p>
                   </div>
                   <div className="flex gap-2 flex-wrap">
-                  <Badge variant="secondary">SQL</Badge>
-                  <Badge variant="secondary">Power BI</Badge>
+                    <Badge variant="secondary">SQL</Badge>
+                    <Badge variant="secondary">Power BI</Badge>
                     {/* <Badge variant="secondary">Next.js</Badge>
                       <Badge variant="secondary">Tailwind CSS</Badge> */}
                   </div>
@@ -256,12 +259,12 @@ export default function Home() {
                       <h3 className="font-bold text-xl">Data Exploration</h3>
                     </div>
                     <p className="text-muted-foreground">
-                    8 - Week Challenge by Danny Ma.
+                      8 - Week Challenge by Danny Ma.
                     </p>
                   </div>
                   <div className="flex gap-2 flex-wrap">
-                  <Badge variant="secondary">SQL</Badge>
-                  <Badge variant="secondary">Looker</Badge>
+                    <Badge variant="secondary">SQL</Badge>
+                    <Badge variant="secondary">Looker</Badge>
                     {/* <Badge variant="secondary">Next.js</Badge>
                       <Badge variant="secondary">Tailwind CSS</Badge> */}
                   </div>
