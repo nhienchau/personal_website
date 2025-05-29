@@ -29,7 +29,7 @@ export default function Home() {
               <Link href="#contact" className="text-muted-foreground hover:text-foreground transition-colors">
                 Contact
               </Link>
-              <Link href="#resume" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link href="./resume" className="text-muted-foreground hover:text-foreground transition-colors">
                 Resume
               </Link>
             </div>
