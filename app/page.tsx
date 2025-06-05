@@ -276,10 +276,9 @@ export default function Home() {
                       </Link>
                     </Button>
                     <Button size="sm" asChild>
-                      {/* <Link href="#" target="_blank" rel="noopener noreferrer">
-                          <ExternalLink className="mr-2 h-4 w-4" />
-                          Demo
-                        </Link> */}
+                      <Link href="https://sql-data-with-danny.vercel.app/" target="_blank" rel="noopener noreferrer">
+                        Demo Website
+                      </Link>
                     </Button>
                   </div>
                 </CardContent>
