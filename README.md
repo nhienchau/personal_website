@@ -1,4 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E533F7&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+
+# 💼 Data Analyst Portfolio
+
+Welcome to my portfolio! This repository showcases my work across various areas in data analytics including data analysis, data visualization, and large-scale data handling using Google BigQuery.
+
+<hr>
+
+## 📌 Overview
+
+This portfolio contains selected projects that demonstrate my skills in:
+
+- **Data Analysis**: Extracting actionable insights from raw data using SQL and Python.
+- **Database Management**: Handling large datasets using Google BigQuery and optimizing complex queries.
+- **Data Visualization**: Building interactive dashboards and visual reports using Power BI.
+
+<hr>
+
+## 🛠️ Skills & Tools
+
+- **Languages**: SQL, LookML, Python (Pandas, NumPy, Matplotlib), HTML/CSS, React
+- **BI Tools**: Power BI and Looker
+- **Cloud Data Warehouse**: Google BigQuery, Postgres
+- **Other Tools**: Git, Jupyter, Excel, GG sheet 
+
+<hr>
+
+## 🎯 Goals
+
+This portfolio is part of my preparation to delve deeply into **Data Field**. I am constantly expanding my skillset in machine learning, cloud technologies, and statistical modeling.
+
+<hr>
+
+## 📫 Contact
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+<hr>
+
+### “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
+
+
+
+<!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +80,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
