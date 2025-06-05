@@ -1,11 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E533F7&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E533F7&width=435&lines=Hello+World+I'm+Nhien+Chau!)](https://git.io/typing-svg)
 
 # 💼 Data Analyst Portfolio
 
 Welcome to my portfolio! This repository showcases my work across various areas in data analytics including data analysis, data visualization, and large-scale data handling using Google BigQuery.
 
-<hr>
 
 ## 📌 Overview
 
@@ -15,7 +14,6 @@ This portfolio contains selected projects that demonstrate my skills in:
 - **Database Management**: Handling large datasets using Google BigQuery and optimizing complex queries.
 - **Data Visualization**: Building interactive dashboards and visual reports using Power BI.
 
-<hr>
 
 ## 🛠️ Skills & Tools
 
@@ -24,21 +22,18 @@ This portfolio contains selected projects that demonstrate my skills in:
 - **Cloud Data Warehouse**: Google BigQuery, Postgres
 - **Other Tools**: Git, Jupyter, Excel, GG sheet 
 
-<hr>
 
 ## 🎯 Goals
 
 This portfolio is part of my preparation to delve deeply into **Data Field**. I am constantly expanding my skillset in machine learning, cloud technologies, and statistical modeling.
 
-<hr>
 
 ## 📫 Contact
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-<hr>
+---
 
 ### “Without data, you're just another person with an opinion.” – W. Edwards Deming
 
